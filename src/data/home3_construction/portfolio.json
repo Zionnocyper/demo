@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Green Phương Đông<br />Valley",
+    "subTitle": "Quy hoạch đô thị",
+    "desc": "Nơi Hòa Mình Với Thiên Nhiên, <br /> Nuôi Dưỡng Tâm Hồn",
+    "img": "/home3_construction/assets/img/projects/proj1.jpg"
+  },
+  {
+    "title": "DAK PLAO <br /> RESORT&SPA",
+    "subTitle": "Quy hoạch nghỉ dưỡng",
+    "desc": "Nghỉ Dưỡng Sinh Thái, <br />  Trải Nghiệm Đích Thực",
+    "img": "/home3_construction/assets/img/projects/proj2.jpg"
+  },
+  {
+    "title": " Hạ Long <br /> house",
+    "subTitle": "Thiết kế biệt thự",
+    "desc": "Resort in house, <br /> tận hưởng cuộc sống nghỉ dưỡng ngay tại nhà",
+    "img": "/home3_construction/assets/img/projects/proj3.jpg"
+  },
+  {
+    "title": "Hà <br /> house",
+    "subTitle": "Thiết kế ngoại thất",
+    "desc": "Nét xanh giữa lòng phố thị",
+    "img": "/home3_construction/assets/img/projects/proj4.jpg"
+  },
+  {
+    "title": "Nhà <br /> Mr Tùng",
+    "subTitle": "Thiết kế nội thất",
+    "desc": "Nét đẹp kiêu sa giữa lòng thành phố",
+    "img": "/home3_construction/assets/img/projects/proj5.jpg"
+  }
+]

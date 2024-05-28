@@ -1,0 +1,20 @@
+[
+  {
+    "link": "/PortfolioPage",
+    "img": "/home_preview/assets/img/demos/d1.jpg",
+    "title": "Dự án Quy hoạch đô thị",
+    "delay": ".2s"
+  },
+  {
+    "link": "/PortfolioPage",
+    "img": "/home_preview/assets/img/demos/d2.jpg",
+    "title": "Dự án Thiết kế - quy hoạch Nghỉ dưỡng",
+    "delay": ".3s"
+  },
+  {
+    "link": "/PortfolioPage",
+    "img": "/home_preview/assets/img/demos/d9.jpg",
+    "title": "Dự án Thiết kế - quy hoạch Biệt thự",
+    "delay": ".4s"
+  }
+]

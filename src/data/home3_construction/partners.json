@@ -1,0 +1,52 @@
+[
+  {
+    "img": "/home1/assets/img/partner1.png",
+    "title": "Tập đoàn Mitsui",
+    "delay": ".2s"
+  },
+  {
+    "img": "/home1/assets/img/partner2.png",
+    "title": "Tập đoàn Sunshine",
+    "delay": ".4s"
+  },
+  {
+    "img": "/home1/assets/img/partner3.png",
+    "title": "Tập đoàn Ecopark",
+    "delay": ".6s"
+  },
+  {
+    "img": "/home1/assets/img/partner4.png",
+    "title": "Công ty BĐS Vinhomes",
+    "delay": ".8s"
+  },
+  {
+    "img": "/home1/assets/img/partner5.png",
+    "title": "Công ty BĐS Imperia Land",
+    "delay": "1s"
+  },
+  {
+    "img": "/home1/assets/img/partner6.png",
+    "title": "Lumi Vietnam",
+    "delay": ".1s"
+  },
+  {
+    "img": "/home1/assets/img/partner7.png",
+    "title": "Tập đoàn Häfele",
+    "delay": ".3s"
+  },
+  {
+    "img": "/home1/assets/img/partner8.png",
+    "title": "Tập đoàn TOTO",
+    "delay": ".5s"
+  },
+  {
+    "img": "/home1/assets/img/partner9.png",
+    "title": "Công ty CP gỗ An Cường",
+    "delay": ".7s"
+  },
+  {
+    "img": "/home1/assets/img/partner10.png",
+    "title": "Tập đoàn Robert Bosch GmbH",
+    "delay": ".9s"
+  }
+]

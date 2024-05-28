@@ -1,0 +1,23 @@
+[
+  {
+    "herf": "/SingleProject",
+    "img": "/home7_landscape/assets/img/services/ser1.png",
+    "icon": "fal fa-bezier-curve",
+    "title": "Tư vấn lập dự án <br /> Quy Hoạch",
+    "desc": "Nexsa với đội ngũ chuyên gia quy hoạch sẽ tư vấn lập dự án quy hoạch cho dự án của bạn tối ưu nhất."
+  },
+  {
+    "herf": "/SingleProject02",
+    "img": "/home7_landscape/assets/img/services/ser2.png",
+    "icon": "fal fa-hammer",
+    "title": "Thiết kế <br /> quy hoạch",
+    "desc": "Thiết kế quy hoạch chung, quy hoạch chi tiết, thiết kế hạ tầng quy hoạch."
+  },
+  {
+    "herf": "/SingleProject03",
+    "img": "/home7_landscape/assets/img/services/ser3.png",
+    "icon": "fal fa-leaf",
+    "title": "Diễn họa <br /> quy hoạch",
+    "desc": "Nexsa với đội ngủ diễn họa viên đông đảo và giàu kinh nghiệm triển khai diễn họa thương mại, film dự án, 360 visual."
+  }
+]

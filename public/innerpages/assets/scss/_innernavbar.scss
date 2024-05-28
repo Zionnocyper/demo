@@ -1,0 +1,179 @@
+/* --------------- inner-navbar-style1 --------------- */
+.inner-navbar-style1 {
+    position: relative;
+    padding: 50px 4vw;
+
+    .logo {
+        width: 100px;
+    }
+
+    .navbar-nav {
+        .nav-link {
+            font-size: 14px;
+            font-weight: 600;
+            color: #000;
+            margin-inline-start: 30px;
+            text-transform: capitalize;
+        }
+    }
+
+    .nav-side {
+        position: relative;
+        a {
+            font-size: 14px;
+            font-weight: 600;
+            color: #000;
+        }
+    }
+
+    .nav-search-box {
+        position: absolute;
+        background-color: #fff;
+        box-shadow: 5px 5px 20px #fff1;
+        right: 0;
+        top: calc(100% + 15px);
+        width: 100%;
+        min-width: 250px;
+        padding: 15px;
+        border-radius: 10px;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(30px);
+        transition: all 0.3s ease;
+        box-shadow: 0 0 20px #0001;
+
+        &.show {
+            visibility: visible;
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .form-group {
+            display: flex;
+
+            input {
+                width: 100%;
+                background-color: transparent;
+                border: 1px solid #9993;
+                border-right: 0;
+                border-radius: 8px 0 0 8px;
+                min-height: 50px;
+                color: #000;
+                padding: 12px 15px;
+
+            }
+
+            button {
+                flex-shrink: 0;
+                border-radius: 0 8px 8px 0;
+                border: 1px solid #9993;
+                background-color: #9993;
+                padding: 10px;
+                color: #000;
+                margin-left: -2px;
+                transition: all 0.3s ease;
+
+                &:hover {
+                    background-color: var(--color-orange1);
+                    color: #fff;
+                }
+            }
+        }
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    .inner-navbar-style1 {
+        .navbar-nav {
+            margin-top: 30px;
+            .nav-link {
+                margin-inline-start: 0;
+            }
+        }
+
+        .ms-3 {
+            margin-left: 0!important;
+            margin-right: 1rem!important;
+        }
+    }
+}
+/*css Navbar*/
+.tc-navbar-preview {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+    background-color: transparent;
+    padding: 30px 5vw;
+  }
+  .tc-navbar-preview .content {
+    padding: 20px 0;
+  }
+  .tc-navbar-preview .content .navbar-brand {
+    max-width: 115px;
+    -webkit-margin-end: 100px;
+            margin-inline-end: 100px;
+  }
+  .tc-navbar-preview .content .navbar-nav .nav-link {
+    font-size: 14px;
+    color: #fff;
+    opacity: 1;
+    margin: 0 20px;
+  }
+  .tc-navbar-preview .content .navbar-nav .nav-link:hover, .home-preview .tc-navbar-preview .content .navbar-nav .nav-link.active {
+    color: var(--color-orange1);
+  }
+  .tc-navbar-preview .content .nav-side .icon {
+    font-size: 14px;
+    color: #fff;
+  }
+  .tc-navbar-preview .dropdown-menu {
+    border-radius: 10px;
+    overflow: hidden;
+    background-image: linear-gradient(-45deg, #45261F, #20201F, #34301C);
+  }
+  .tc-navbar-preview .dropdown-menu li:last-of-type .dropdown-item {
+    border: 0;
+  }
+  .tc-navbar-preview .dropdown-menu .dropdown-item {
+    color: #fff;
+    border-color: #fff2;
+    padding: 15px 20px;
+    text-transform: capitalize;
+    font-size: 13px;
+  }
+  .tc-navbar-preview .dropdown-menu .dropdown-item:hover {
+    background-color: #20201F;
+  }
+  
+  /* style video link youtube */
+  .img_logo 
+  { 
+    font-size: small;
+    height: 70%;
+    width: 70%;
+  }
+  .video-container {
+    overflow: hidden;
+    position: relative;
+    width:160%;
+    height: 80%;
+  }
+  
+  .video-container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  /*----------------------------------------------------------------
+  */

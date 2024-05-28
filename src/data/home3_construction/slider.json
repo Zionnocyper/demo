@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/home3_construction/assets/img/header/slide_1.jpg",
+    "type": "builds",
+    "advantege": "NEXCON",
+    "title": "Thiết Kế, <br /> Thi Công & <br /> Sản Xuất Nội Thất",
+    "desc": "Tổng thầu thi công thế hệ mới. <br /> Chọn đẳng cấp chọn NEXCON"
+  },
+  {
+    "img": "/home3_construction/assets/img/header/slide_2.jpg",
+    "type": "Planning",
+    "advantege": "NEXSA",
+    "title": "Quy hoạch <br /> Tư vấn lập dự án <br /> thiết kế nghỉ dưỡng",
+    "desc": "Không chỉ xây dựng công trình. <br /> Chúng tôi còn xây dựng ước mơ"
+  },
+  {
+    "img": "/home3_construction/assets/img/header/slide_3.jpg",
+    "type": "Factory",
+    "advantege": "Wooder",
+    "title": "Sản xuất <br /> Gỗ công nghiệp <br /> Đồ nội thất",
+    "desc": "Nhà máy 1000m2 với trang thiết bị hiện đại."
+  }
+]

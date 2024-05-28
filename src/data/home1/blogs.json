@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/home1/assets/img/blog/blog1.jpg",
+    "num": "25",
+    "history": "december <br /> 2023",
+    "title": "Bài viết về công trình xây dựng",
+    "subTitle": "Nexsa - Nexcon"
+  },
+  {
+    "img": "/home1/assets/img/blog/blog2.jpg",
+    "num": "16",
+    "history": "december <br /> 2023",
+    "title": "Top sản phẩm gần nhất",
+    "subTitle": "Nexsa - Nexcon"
+  },
+  {
+    "img": "/home1/assets/img/blog/blog1.jpg",
+    "num": "25",
+    "history": "december <br /> 2023",
+    "title": "Cách xử lý ánh sáng trong ngôi nhà",
+    "subTitle": "Nexsa - Nexcon"
+  }
+]

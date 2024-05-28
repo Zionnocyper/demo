@@ -1,0 +1,50 @@
+[
+  {
+    "location": "2022 - portland, or",
+    "title": "DAK PLAO RESORT & SPA",
+    "img": "/home7_landscape/assets/img/projects/01.jpg",
+    "tab": "tab-1"
+  },
+  {
+    "location": "2022 - Boston, MA",
+    "title": "ĐIỆN BIÊN retreat",
+    "img": "/home7_landscape/assets/img/projects/02.jpg",
+    "tab": "tab-2"
+  },
+  {
+    "location": "2023 - Boston, MA",
+    "title": "NINH BÌNH RESORT",
+    "img": "/home7_landscape/assets/img/projects/03.jpg",
+    "tab": "tab-3"
+  },
+  {
+    "location": "2023 - Seattle, WA",
+    "title": "TROPI RETRAT",
+    "img": "/home7_landscape/assets/img/projects/04.jpg",
+    "tab": "tab-4"
+  },
+  {
+    "location": "2022 - Boston, MA",
+    "title": "Le Meridien Danang",
+    "img": "/home7_landscape/assets/img/projects/05.jpg",
+    "tab": "tab-5"
+  },
+  {
+    "location": "2021 - Boston, MA",
+    "title": "Super Yatch",
+    "img": "/home7_landscape/assets/img/projects/06.jpg",
+    "tab": "tab-6"
+  },
+  {
+    "location": "2021 - San Francisco, CA",
+    "title": "Minimal Backyard",
+    "img": "/home7_landscape/assets/img/projects/7.jpg",
+    "tab": "tab-7"
+  },
+  {
+    "location": "2023 - Seattle, WA",
+    "title": "Japan Park",
+    "img": "/home7_landscape/assets/img/projects/8.jpg",
+    "tab": "tab-8"
+  }
+]

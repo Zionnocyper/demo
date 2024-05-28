@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Urban planning",
+    "subTitle": "Quy hoạch đô thị",
+    "desc": "Trong hành trình kiến tạo đô thị xanh, thông minh và bền vững. NEX là giải pháp thiết kế - quy hoạch đô thị - nhà dân dụng sáng tạo, tối ưu hóa không gian sống và kiến tạo giá trị.",
+    "img": "/home1/assets/img/head_slide1.jpg"
+  },
+  {
+    "title": "Resort planning",
+    "subTitle": "Quy hoạch nghỉ dưỡng",
+    "desc": "Trong hành trình kiến tạo đô thị xanh, thông minh và bền vững. NEX là giải pháp thiết kế - quy hoạch đô thị - nhà dân dụng sáng tạo, tối ưu hóa không gian sống và kiến tạo giá trị.",
+    "img": "/home1/assets/img/head_slide2.jpg"
+  },
+  {
+    "title": "Villa construction",
+    "subTitle": "Thi công biệt thự",
+    "desc": "Trong hành trình kiến tạo đô thị xanh, thông minh và bền vững. NEX là giải pháp thiết kế - quy hoạch đô thị - nhà dân dụng sáng tạo, tối ưu hóa không gian sống và kiến tạo giá trị.",
+    "img": "/home1/assets/img/head_slide3.jpg"
+  },
+  {
+    "title": "Interior design",
+    "subTitle": "Thiết kế nội thất",
+    "desc": "Trong hành trình kiến tạo đô thị xanh, thông minh và bền vững. NEX là giải pháp thiết kế - quy hoạch đô thị - nhà dân dụng sáng tạo, tối ưu hóa không gian sống và kiến tạo giá trị.",
+    "img": "/home1/assets/img/head_slide4.jpg"
+  },
+  {
+    "title": "Exterior design",
+    "subTitle": "Thiết kế ngoại thất",
+    "desc": "Trong hành trình kiến tạo đô thị xanh, thông minh và bền vững. NEX là giải pháp thiết kế - quy hoạch đô thị - nhà dân dụng sáng tạo, tối ưu hóa không gian sống và kiến tạo giá trị.",
+    "img": "/home1/assets/img/head_slide5.jpg"
+  }
+]

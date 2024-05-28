@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/innerpages/assets/img/logos/logo1.jpg",
+    "title": "Sketch Up",
+    "subTitle": "SketchUp là một phần mềm mô hình hóa 3D, dành cho các kiến trúc sư, các kỹ sư"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo2.jpg",
+    "title": "PlanGrid",
+    "subTitle": "PlanGrid là phần mềm năng suất xây dựng được thiết kế cho công nhân xây dựng tại chỗ."
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo3.jpg",
+    "title": "AutoCAD",
+    "subTitle": "AutoCAD là phần mềm ứng dụng CAD để vẽ bản vẽ kỹ thuật bằng vectơ 2D hay bề mặt 3D."
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo4.jpg",
+    "title": "Lumion",
+    "subTitle": "Lumion là phần mềm kết xuất nhanh nhất thế giới dành cho các kiến trúc sư."
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo5.jpg",
+    "title": "Trimble Connect",
+    "subTitle": "Với Trimble Connect , mọi người tham gia vào dự án đều có thể nhìn thấy bức tranh toàn cảnh."
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo6.jpg",
+    "title": "Enscape",
+    "subTitle": "Enscape là một phần mềm giúp tác vụ Render kiến trúc diễn ra dễ dàng hơn bao giờ hết."
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo7.jpg",
+    "title": "Navisworks",
+    "subTitle": "Navisworks là phần mềm đánh giá mô hình 3D về kiến ​​trúc, kỹ thuật và xây dựng."
+  },
+  {
+    "img": "/innerpages/assets/img/logos/logo8.jpg",
+    "title": "Autodesk Revit",
+    "subTitle": "Autodesk Revit là phần mềm thiết kế 3D với những hiểu biết sâu sắc và tự động hóa."
+  }
+]
